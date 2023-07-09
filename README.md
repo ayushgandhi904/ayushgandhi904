@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, NLP & Computer Vision**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github.com/ayushgandhi904](github.com)
 
 - 📫 How to reach me **ayusgnadhi904@gmail.com**
 
