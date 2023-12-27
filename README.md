@@ -11,7 +11,10 @@
 
 ## My Github Stats
 
+![Github Stat](https://github-readme-stats.vercel.app/api?username=ayushgandhi904)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushgandhi904)
+![Github Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgandhi904)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
