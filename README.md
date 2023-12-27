@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **ayusgnadhi904@gmail.com**
 
+## My Github Stats
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushgandhi904)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayushgandhi904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushgandhi904" height="30" width="40" /></a>
