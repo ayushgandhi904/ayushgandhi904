@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Bhagyanagar Gas Limited**
 
+- "Simplifying AI Series Creator". Find a PDF for notes on this repo [https://github.com/ayushgandhi904/Simplifying--AI](Simplyfying AI)
+
 - 🌱 I’m currently learning **MLOOPS, Deep Learning & NLP**
 
 - 👨‍💻 All of my projects are available at [github.com/ayushgandhi904](github.com)
